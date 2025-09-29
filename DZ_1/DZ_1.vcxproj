@@ -183,14 +183,26 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
+    <ClCompile Include="ConvertBinaryNumberInALinkedListToIntager.cpp" />
     <ClCompile Include="DZ_1.cpp" />
     <ClCompile Include="LinkedListCycle.cpp" />
+    <ClCompile Include="MergeTwoSortedLists.cpp" />
+    <ClCompile Include="MiddleOfTheLinkedList.cpp" />
+    <ClCompile Include="PalindromeLinkedList.cpp" />
+    <ClCompile Include="RemoveDublicatesFromSortedList.cpp" />
     <ClCompile Include="RemoveNthFromEnd.cpp" />
+    <ClCompile Include="SwappingNodesInALinkedList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="ConvertBinaryNumberInALinkedListToIntager.h" />
     <ClInclude Include="LinkedListCycle.h" />
+    <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="MiddleOfTheLinkedList.h" />
+    <ClInclude Include="PalindromeLinkedList.h" />
+    <ClInclude Include="RemoveDublicatesFromSortedList.h" />
     <ClInclude Include="RemoveNthFromEnd.h" />
+    <ClInclude Include="SwappingNodesInALinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
